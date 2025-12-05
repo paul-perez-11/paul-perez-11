@@ -1,5 +1,7 @@
 ### Paul Joel D. Perez
 
+[Website](https://paul-perez-11.github.io/personal-website/)
+
 | Category | Tools & Languages |
 |-----------|-------------------|
 | **Core** | Python, C#, C++, Java |
