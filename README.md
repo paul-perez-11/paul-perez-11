@@ -1,6 +1,6 @@
 ### Paul Joel D. Perez
 
-[Website](https://paul-perez-11.github.io/)
+[Website](https://pauljoelperez.dev/)
 
 1st Year CS @ Mapúa
 
